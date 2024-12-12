@@ -1,0 +1,7 @@
+# Configuration file for osuKeyTracker
+
+# Key input 1
+key1 = A
+
+# Key input 2
+key2 = B
